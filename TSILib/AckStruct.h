@@ -9,6 +9,7 @@
 #include "NMEAPackage.h"
 #include "FinalTest.h"
 /* test */
+/* test2 */
 
 typedef struct AckBaseStatus
 {
