@@ -9,6 +9,8 @@
 #include "NMEAPackage.h"
 #include "FinalTest.h"
 
+/* test1 */
+
 typedef struct AckBaseStatus
 {
 	unsigned int connect ;
