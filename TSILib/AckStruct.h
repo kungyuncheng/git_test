@@ -8,6 +8,7 @@
 #include "TSIPackage.h"
 #include "NMEAPackage.h"
 #include "FinalTest.h"
+/* test */
 
 typedef struct AckBaseStatus
 {
